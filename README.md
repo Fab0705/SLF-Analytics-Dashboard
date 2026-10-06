@@ -14,8 +14,6 @@ A diferencia de proyectos teóricos, esta arquitectura simula un entorno de prod
 
 ## 🏗️ Arquitectura de Datos
 
-> **Sugerencia visual:** *Sube una imagen simple o diagrama que muestre 3 bloques: [Python/Pandas] -> [Google Sheets] -> [Tableau]. Guarda la imagen en tu repositorio y reemplaza el enlace de abajo.*
-
 ![Diagrama de Arquitectura](images/Architecture-Diagram.png)
 
 1. **Extracción:** Consumo de datasets relacionados con marketing y ventas (basado en el *Olist Marketing Funnel* de Kaggle).
@@ -35,8 +33,6 @@ El dashboard resultante permite a la gerencia de ventas responder preguntas crí
 * **Tendencia:** Análisis de la entrada mensual de leads para la planificación de capacidad operativa.
 
 🔗 **[Ver Dashboard Interactivo en Tableau Public](https://public.tableau.com/app/profile/fabian.cristobal/viz/Sales-Lead-Performance-Dashboard/SalesLeadPerformanceDashboar?publish=yes)**
-
-> **Sugerencia visual:** *Toma una captura de pantalla completa de tu dashboard final en Tableau y súbela aquí.*
 
 ![Vista Previa del Dashboard](images/Dashboard-Preview.png)
 
@@ -69,9 +65,12 @@ El proyecto sigue buenas prácticas de ingeniería de software, modularizando el
     source venv/Scripts/activate  # En Bash
    ```
 4. Instala las dependencias:
-   
+   ```bash
+    pip install -r requirements.txt
+   ```
 6. Configura tus credenciales:
-  * Los datos 
+  * Los datos de Olist se encuentran la carpeta `data/`.
+  * Obtén tu archivo de credenciales de Google Cloud API y guárdalo como `credenciales.json` en la raíz.
 8. Ejecuta el orquestador:
    ```bash
     python main.py
