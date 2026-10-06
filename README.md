@@ -34,7 +34,7 @@ El dashboard resultante permite a la gerencia de ventas responder preguntas crí
 * **Top Performers:** ¿Qué representantes de ventas están cerrando la mayor cantidad de tratos de alto valor?
 * **Tendencia:** Análisis de la entrada mensual de leads para la planificación de capacidad operativa.
 
-🔗 **[Ver Dashboard Interactivo en Tableau Public]([Reemplaza_con_tu_enlace_de_Tableau_Public_AQUI](https://public.tableau.com/app/profile/fabian.cristobal/viz/Sales-Lead-Performance-Dashboard/SalesLeadPerformanceDashboar?publish=yes))**
+🔗 **[Ver Dashboard Interactivo en Tableau Public](https://public.tableau.com/app/profile/fabian.cristobal/viz/Sales-Lead-Performance-Dashboard/SalesLeadPerformanceDashboar?publish=yes)**
 
 > **Sugerencia visual:** *Toma una captura de pantalla completa de tu dashboard final en Tableau y súbela aquí.*
 
