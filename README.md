@@ -16,7 +16,7 @@ A diferencia de proyectos teóricos, esta arquitectura simula un entorno de prod
 
 > **Sugerencia visual:** *Sube una imagen simple o diagrama que muestre 3 bloques: [Python/Pandas] -> [Google Sheets] -> [Tableau]. Guarda la imagen en tu repositorio y reemplaza el enlace de abajo.*
 
-![Diagrama de Arquitectura](enlace_a_tu_imagen_arquitectura_aqui.png)
+![Diagrama de Arquitectura](images/Architecture-Diagram.png)
 
 1. **Extracción:** Consumo de datasets relacionados con marketing y ventas (basado en el *Olist Marketing Funnel* de Kaggle).
 2. **Transformación:** Limpieza de datos (Pandas), cruce de tablas relacionales (Leads vs. Deals) y generación de métricas de negocio simuladas (`Minutos_Respuesta`, `Costo_Lead`).
@@ -38,7 +38,7 @@ El dashboard resultante permite a la gerencia de ventas responder preguntas crí
 
 > **Sugerencia visual:** *Toma una captura de pantalla completa de tu dashboard final en Tableau y súbela aquí.*
 
-![Vista Previa del Dashboard](enlace_a_la_captura_del_dashboard_aqui.jpg)
+![Vista Previa del Dashboard](images/Dashboard-Preview.png)
 
 ---
 
